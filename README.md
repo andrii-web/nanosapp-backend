@@ -1,4 +1,4 @@
-# Express NANOSAPP BACKEND
+# Nansapp Backend
 
 Test Project for Nanosapp for building RESTful APIs using Node.js, Express and MongoDB
 
